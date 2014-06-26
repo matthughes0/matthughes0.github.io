@@ -1,0 +1,18 @@
+body{
+	
+	overflow:hidden;
+	
+	margin: 50px 50px 50px 50px;
+	text-align: center;
+	font-size: 50;
+	font-family: 'Open Sans Condensed', sans-serif;
+	
+	
+background: 
+		linear-gradient(135deg, #c0392b 25%, transparent 25%) -50px 0,
+		linear-gradient(225deg, #c0392b 25%, transparent 25%) -50px 0,
+		linear-gradient(315deg, #ecf0f1 25%, transparent 25%),
+		linear-gradient(45deg, #ecf0f1 25%, transparent 25%);	
+		background-size: 100px 100px;
+		background-color: #e74c3c;
+}
